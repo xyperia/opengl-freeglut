@@ -1,0 +1,17 @@
+############# Keyboard Control #############
+
+A	: Strafe Left
+D	: Strafe Right
+W	: Pane Up
+S	: Pane Down
+E	: Toggle Depth Test (On / Off)
+1	: Toggle Animate Rotation (On / Off)
+Q	: Quit
+
+############# Mouse Control #############
+
+Left Click + Mouse Move	: Camera
+Right Click		: View Interior
+Middle Click		: Toggle Lighting (On / Off)
+Scroll Up		: Zoom In
+Scroll Down		: Zoom Out
